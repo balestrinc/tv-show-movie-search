@@ -16,8 +16,6 @@ describe("TvShowService", () => {
       {
         "id": 776,
         "title": "The O.C.",
-        "cast": "FOX",
-        "createdBy": "",
         "duration": 60,
         "genres": [
           "Drama",
@@ -34,14 +32,12 @@ describe("TvShowService", () => {
           ],
           "time": "21:00"
         },
-        "showType": "",
+        "showType": "Scripted",
         "status": "Ended"
       },
       {
         "id": 42936,
         "title": "City of Light: The O.C. Thailand",
-        "cast": "One HD 31",
-        "createdBy": "",
         "duration": 60,
         "genres": [
           "Drama",
@@ -58,14 +54,12 @@ describe("TvShowService", () => {
           ],
           "time": "20:30"
         },
-        "showType": "",
+        "showType": "Scripted",
         "status": "Ended",
       },
       {
         "id": 9027,
         "title": "Tamra's OC Wedding",
-        "cast": "Bravo",
-        "createdBy": "",
         "duration": 60,
         "genres": [],
         "images": {
@@ -78,7 +72,7 @@ describe("TvShowService", () => {
           ],
           "time": "20:00"
         },
-        "showType": "",
+        "showType": "Reality",
         "status": "Ended"
       }
     ];
@@ -116,8 +110,6 @@ describe("TvShowService", () => {
       {
         "id": 776,
         "title": "The O.C.",
-        "cast": "FOX",
-        "createdBy": "",
         "duration": 60,
         "genres": [
           "Drama",
@@ -134,7 +126,7 @@ describe("TvShowService", () => {
           ],
           "time": "21:00"
         },
-        "showType": "",
+        "showType": "Scripted",
         "status": "Ended"
       }
     ]
@@ -153,18 +145,5 @@ describe("TvShowService", () => {
 
     expect(result[0].images.original).toEqual(DefaultImage);
     expect(result[0].images.medium).toEqual(DefaultImage);
-  });
-
-  it("fetch tv shows set cast from webChannel", async () => {
-    let tvShowswebChannel = { ...matchingResultsTvSearch[0] };
-    tvShowswebChannel.show.network = null;
-    tvShowswebChannel.show.webChannel = { name: "Netflix" };
-
-    const httpClientMock = { get: () => Promise.resolve({ data: [tvShowswebChannel] }) };
-
-    const result = await TvShowService({ httpClient: httpClientMock })
-      .fetchTvShows("phrase");
-
-    expect(result[0].cast).toEqual("Netflix" );
   });
 });

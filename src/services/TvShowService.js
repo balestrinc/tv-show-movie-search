@@ -3,7 +3,6 @@ import DefaultImage from "./DefaultImage";
 
 const mapToShowItem = (item) => {
   const show = item.show;
-  const cast = show.network ? show.network.name : show.webChannel.name;
   return {
     id: show.id,
     title: show.name,
@@ -14,10 +13,8 @@ const mapToShowItem = (item) => {
     duration: show.runtime,
     schedule: show.schedule,
     status: show.status,
-    showType: '',
-    genres: show.genres,
-    createdBy: '',
-    cast: cast
+    showType: show.type,
+    genres: show.genres
   }
 }
 
