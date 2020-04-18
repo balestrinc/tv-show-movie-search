@@ -1,16 +1,24 @@
+import 'regenerator-runtime/runtime';
 import React from 'react';
-import logo from './assets/images/logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import "./App.css";
 
-function App() {
+import Home from './TvShowSearch/Home/Home';
+import TvSearch from './TvShowSearch/TvSearch/TvSearch';
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header" id="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        TV Show Search
-      </header>
+    <div className="app">
+      <Router>
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route exact path="/search">
+          <TvSearch />
+        </Route>
+      </Router>
     </div>
-  );
+  )
 }
 
 export default App;

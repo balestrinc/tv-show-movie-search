@@ -1,0 +1,18 @@
+.appLogo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.homeHeader{
+  font-size: calc(10px + 2vmin);
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchLink {
+  text-decoration: none;
+}
