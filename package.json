@@ -5,7 +5,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "cross-env CI=true react-scripts test --env=jsdom --verbose",
+    "test:watch": "react-scripts test --env=jsdom --verbose"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -19,11 +20,13 @@
     "normalize.css": "8.0.0"
   },
   "devDependencies": {
+    "cross-env": "5.2.0",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.7.1",
     "eslint": "^6.8.0",
     "jest-enzyme": "7.1.2",
-    "jest-junit": "10.0.0"
+    "jest-junit": "10.0.0",
+    "shortid": "2.2.12"
   },
   "browserslist": {
     "production": [

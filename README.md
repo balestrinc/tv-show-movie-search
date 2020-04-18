@@ -12,7 +12,8 @@ Follow these steps to set up the app:
 3. `npm start` – run the app in the development mode at [http://localhost:3000/](http://localhost:3000/) (it automatically opens the app in your default browser)
 
 
+There is also the `npm run test:watch` command available to start test runner in the watch mode. It runs tests related to modified files only.
+
 ## Build the app for production
 
 1. `npm run build` – builds the app for production to the `build` folder.
-

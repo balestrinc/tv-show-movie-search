@@ -1,0 +1,16 @@
+.matchingTvShows {
+  box-sizing: border-box;
+  display: flex;
+  list-style-type: none;
+  width: 100%;
+  overflow-x: scroll;
+}
+
+.matchingTvShow {
+  padding: 0.5rem;
+}
+
+.matchingTvShowImage {
+  width: 210px;
+  height: 295px;
+}
