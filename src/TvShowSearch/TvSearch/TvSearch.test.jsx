@@ -5,6 +5,7 @@ import { act } from 'react-dom/test-utils';
 import TvSearch from "./TvSearch";
 import SearchFailure from "./SearchFailure/SearchFailure";
 import PhraseInput from "./PhraseInput/PhraseInput";
+import Loading from "./Loading/Loading";
 
 describe("<TvSearch>", () => {
 
@@ -13,7 +14,7 @@ describe("<TvSearch>", () => {
     const TvShowService = { fetchTvShows: () => fetchTvShowsPromise };
 
     const tree = mount(
-      <TvSearch TvShowService={TvShowService}/>
+      <TvSearch TvShowService={TvShowService} />
     );
 
     expect(tree.find(PhraseInput)).toExist();
@@ -48,5 +49,30 @@ describe("<TvSearch>", () => {
     });
     expect(tree.find(SearchFailure)).toExist();
   });
+
+
+  it("render <Loading> when search triggered", async () => {
+    const waitForAsync = () => new Promise(resolve => setImmediate(resolve))
+
+    const TvShowService = { fetchTvShows: () => Promise.resolve([]) };
+
+    const tree = mount(
+      <TvSearch TvShowService={TvShowService} />
+    );
+
+    tree.find("#buttonSearch").simulate("click");
+
+    expect(tree.find(Loading)).toExist();
+
+    // then when it is resolved
+    await act(async () => {
+      await waitForAsync();
+      tree.update();
+    });
+
+    // hide loading
+    expect(tree.find(Loading)).not.toExist();
+  });
+
 
 });

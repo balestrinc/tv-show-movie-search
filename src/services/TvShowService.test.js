@@ -102,7 +102,7 @@ describe("TvShowService", () => {
       });
   });
 
-  it("fetch tv shows set default images when attr image is null", async () => {
+  it("fetch tv shows set default images when prop image is null", async () => {
     let tvShowsNoImage = { ...matchingResultsTvSearch[0] };
     tvShowsNoImage.show.image = null;
 
@@ -153,5 +153,18 @@ describe("TvShowService", () => {
 
     expect(result[0].images.original).toEqual(DefaultImage);
     expect(result[0].images.medium).toEqual(DefaultImage);
+  });
+
+  it("fetch tv shows set cast from webChannel", async () => {
+    let tvShowswebChannel = { ...matchingResultsTvSearch[0] };
+    tvShowswebChannel.show.network = null;
+    tvShowswebChannel.show.webChannel = { name: "Netflix" };
+
+    const httpClientMock = { get: () => Promise.resolve({ data: [tvShowswebChannel] }) };
+
+    const result = await TvShowService({ httpClient: httpClientMock })
+      .fetchTvShows("phrase");
+
+    expect(result[0].cast).toEqual("Netflix" );
   });
 });

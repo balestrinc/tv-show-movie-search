@@ -3,6 +3,7 @@ import DefaultImage from "./DefaultImage";
 
 const mapToShowItem = (item) => {
   const show = item.show;
+  const cast = show.network ? show.network.name : show.webChannel.name;
   return {
     id: show.id,
     title: show.name,
@@ -16,7 +17,7 @@ const mapToShowItem = (item) => {
     showType: '',
     genres: show.genres,
     createdBy: '',
-    cast: show.network.name
+    cast: cast
   }
 }
 
