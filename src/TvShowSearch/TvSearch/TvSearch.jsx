@@ -10,6 +10,7 @@ export default ({ TvShowService = ShowService() }) => {
   const [isLoading, setIsloading] = useState(false);
   const [hasFailedToSearch, setHasFailedToSearch] = useState(false);
   const [tvShows, setTvShows] = useState([]);
+  const [selectedTvShowId, setSelectedTvShowId] = useState(null);
 
   const onPhraseChange = (newValue) => setPhase(newValue);
 
@@ -25,14 +26,18 @@ export default ({ TvShowService = ShowService() }) => {
       .finally(() => {
         setIsloading(false);
       });
-  }
+  };
+
+  const onMatchingTvShowClick = (selectedShow) => {
+    setSelectedTvShowId(selectedShow.id);
+  };
 
   return (
     <React.Fragment>
       <h1>Search Tv Shows and Movies</h1>
       <PhraseInput phase={phase} onPhraseChange={onPhraseChange} onSearchClick={onSearchClick} />
       {isLoading && (<Loading />)}
-      <MatchingTvShows tvShows={tvShows} />
+      <MatchingTvShows tvShows={tvShows} onMatchingTvShowClick={onMatchingTvShowClick} selectedTvShowId={selectedTvShowId} />
       {hasFailedToSearch && (<SearchFailure />)}
     </React.Fragment>
   );

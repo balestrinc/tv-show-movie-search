@@ -1,7 +1,8 @@
 import React from "react";
 import "./MatchingTvShows.css";
+import classNames from "classnames";
 
-export default ({ tvShows }) => {
+export default ({ tvShows, onMatchingTvShowClick, selectedTvShowId }) => {
   if (!tvShows || tvShows.length === 0) {
     return (null);
   }
@@ -10,12 +11,18 @@ export default ({ tvShows }) => {
     <ul
       className="matchingTvShows"
     >
-      {tvShows.map((item, index) => {
+      {tvShows.map((item) => {
+        const selected = selectedTvShowId === item.id;
         return (
           <li
             key={item.id}
-            item={item}
-            className="matchingTvShow"
+            onClick={() => onMatchingTvShowClick(item)}
+            id={`matchingTvShow_${item.id}`}
+            className={classNames(
+              "matchingTvShow",
+              {
+                "matchingTvShowSelected": selected,
+              })}
           >
             <img
               src={item.images.medium}
