@@ -1,0 +1,2087 @@
+[
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 1685,
+      "url": "http://www.tvmaze.com/people/1685/michael-w-watkins",
+      "name": "Michael W. Watkins",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/1685"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 2711,
+      "url": "http://www.tvmaze.com/people/2711/daniel-cerone",
+      "name": "Daniel Cerone",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/183/457895.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/183/457895.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/2711"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 3532,
+      "url": "http://www.tvmaze.com/people/3532/daniel-knauf",
+      "name": "Daniel Knauf",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1958-08-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/3532"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 3532,
+      "url": "http://www.tvmaze.com/people/3532/daniel-knauf",
+      "name": "Daniel Knauf",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1958-08-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/3532"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 5040,
+      "url": "http://www.tvmaze.com/people/5040/jr-orci",
+      "name": "J.R. Orci",
+      "country": {
+        "name": "Mexico",
+        "code": "MX",
+        "timezone": "America/Monterrey"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/152/381888.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/152/381888.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5040"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 5040,
+      "url": "http://www.tvmaze.com/people/5040/jr-orci",
+      "name": "J.R. Orci",
+      "country": {
+        "name": "Mexico",
+        "code": "MX",
+        "timezone": "America/Monterrey"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/152/381888.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/152/381888.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5040"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 5040,
+      "url": "http://www.tvmaze.com/people/5040/jr-orci",
+      "name": "J.R. Orci",
+      "country": {
+        "name": "Mexico",
+        "code": "MX",
+        "timezone": "America/Monterrey"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/152/381888.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/152/381888.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/5040"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 7445,
+      "url": "http://www.tvmaze.com/people/7445/vincent-angell",
+      "name": "Vincent Angell",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/95/238840.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/95/238840.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7445"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 7445,
+      "url": "http://www.tvmaze.com/people/7445/vincent-angell",
+      "name": "Vincent Angell",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/95/238840.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/95/238840.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/7445"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 8304,
+      "url": "http://www.tvmaze.com/people/8304/john-c-kelley",
+      "name": "John C. Kelley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/8304"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 8644,
+      "url": "http://www.tvmaze.com/people/8644/carla-kettner",
+      "name": "Carla Kettner",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/33/82931.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/33/82931.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/8644"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 8655,
+      "url": "http://www.tvmaze.com/people/8655/dave-thomas",
+      "name": "Dave Thomas",
+      "country": {
+        "name": "Canada",
+        "code": "CA",
+        "timezone": "America/Halifax"
+      },
+      "birthday": "1949-05-20",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/28/70857.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/28/70857.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/8655"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 8656,
+      "url": "http://www.tvmaze.com/people/8656/josh-berman",
+      "name": "Josh Berman",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/19/48436.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/19/48436.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/8656"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9244,
+      "url": "http://www.tvmaze.com/people/9244/james-spader",
+      "name": "James Spader",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1960-02-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136757.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136757.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9244"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9244,
+      "url": "http://www.tvmaze.com/people/9244/james-spader",
+      "name": "James Spader",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1960-02-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/54/136757.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/54/136757.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9244"
+        }
+      }
+    }
+  },
+  {
+    "type": "Creator",
+    "person": {
+      "id": 9249,
+      "url": "http://www.tvmaze.com/people/9249/jon-bokenkamp",
+      "name": "Jon Bokenkamp",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/23/58700.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/23/58700.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9249"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9249,
+      "url": "http://www.tvmaze.com/people/9249/jon-bokenkamp",
+      "name": "Jon Bokenkamp",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/23/58700.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/23/58700.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9249"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9250,
+      "url": "http://www.tvmaze.com/people/9250/john-fox",
+      "name": "John Fox",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/47148.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/47148.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9250"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9251,
+      "url": "http://www.tvmaze.com/people/9251/john-davis",
+      "name": "John Davis",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/18/47146.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/47146.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9251"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9252,
+      "url": "http://www.tvmaze.com/people/9252/john-eisendrath",
+      "name": "John Eisendrath",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/99/249460.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/99/249460.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9252"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9253,
+      "url": "http://www.tvmaze.com/people/9253/joe-carnahan",
+      "name": "Joe Carnahan",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9253"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9254,
+      "url": "http://www.tvmaze.com/people/9254/elizabeth-benjamin",
+      "name": "Elizabeth Benjamin",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9254"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9255,
+      "url": "http://www.tvmaze.com/people/9255/lukas-reiter",
+      "name": "Lukas Reiter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9255"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 9255,
+      "url": "http://www.tvmaze.com/people/9255/lukas-reiter",
+      "name": "Lukas Reiter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9255"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 9255,
+      "url": "http://www.tvmaze.com/people/9255/lukas-reiter",
+      "name": "Lukas Reiter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9255"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9256,
+      "url": "http://www.tvmaze.com/people/9256/jace-alexander",
+      "name": "Jace Alexander",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-04-07",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/107/268251.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/107/268251.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9256"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9257,
+      "url": "http://www.tvmaze.com/people/9257/wendy-west",
+      "name": "Wendy West",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/129/324309.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/129/324309.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9257"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9258,
+      "url": "http://www.tvmaze.com/people/9258/patrick-massett",
+      "name": "Patrick Massett",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/115/288185.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/115/288185.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9258"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9259,
+      "url": "http://www.tvmaze.com/people/9259/john-zinman",
+      "name": "John Zinman",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9259"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9260,
+      "url": "http://www.tvmaze.com/people/9260/gerrit-van-der-meer",
+      "name": "Gerrit Van Der Meer",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9260"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9261,
+      "url": "http://www.tvmaze.com/people/9261/richard-heus",
+      "name": "Richard Heus",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9261"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 9262,
+      "url": "http://www.tvmaze.com/people/9262/jim-campolongo",
+      "name": "Jim Campolongo",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/140/351679.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/140/351679.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9262"
+        }
+      }
+    }
+  },
+  {
+    "type": "Supervising Producer",
+    "person": {
+      "id": 9262,
+      "url": "http://www.tvmaze.com/people/9262/jim-campolongo",
+      "name": "Jim Campolongo",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/140/351679.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/140/351679.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9262"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Producer",
+    "person": {
+      "id": 9263,
+      "url": "http://www.tvmaze.com/people/9263/katrin-l-goodson",
+      "name": "Katrin L. Goodson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9263"
+        }
+      }
+    }
+  },
+  {
+    "type": "Producer",
+    "person": {
+      "id": 9263,
+      "url": "http://www.tvmaze.com/people/9263/katrin-l-goodson",
+      "name": "Katrin L. Goodson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9263"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 9264,
+      "url": "http://www.tvmaze.com/people/9264/daniel-voll",
+      "name": "Daniel Voll",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/9264"
+        }
+      }
+    }
+  },
+  {
+    "type": "First Assistant Director",
+    "person": {
+      "id": 12540,
+      "url": "http://www.tvmaze.com/people/12540/john-e-gallagher",
+      "name": "John E. Gallagher",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/12540"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 17105,
+      "url": "http://www.tvmaze.com/people/17105/peter-noah",
+      "name": "Peter Noah",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/17105"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 17724,
+      "url": "http://www.tvmaze.com/people/17724/dawn-denoon",
+      "name": "Dawn DeNoon",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1964-10-29",
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/17724"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 22314,
+      "url": "http://www.tvmaze.com/people/22314/sean-hennen",
+      "name": "Sean Hennen",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/22314"
+        }
+      }
+    }
+  },
+  {
+    "type": "Supervising Producer",
+    "person": {
+      "id": 22314,
+      "url": "http://www.tvmaze.com/people/22314/sean-hennen",
+      "name": "Sean Hennen",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/22314"
+        }
+      }
+    }
+  },
+  {
+    "type": "Producer",
+    "person": {
+      "id": 26305,
+      "url": "http://www.tvmaze.com/people/26305/kristen-reidel",
+      "name": "Kristen Reidel",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26305"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 26703,
+      "url": "http://www.tvmaze.com/people/26703/jonathan-filley",
+      "name": "Jonathan Filley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/26703"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Producer",
+    "person": {
+      "id": 29059,
+      "url": "http://www.tvmaze.com/people/29059/brian-studler",
+      "name": "Brian Studler",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/29059"
+        }
+      }
+    }
+  },
+  {
+    "type": "Supervising Producer",
+    "person": {
+      "id": 34747,
+      "url": "http://www.tvmaze.com/people/34747/brandon-margolis",
+      "name": "Brandon Margolis",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1980-10-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34747"
+        }
+      }
+    }
+  },
+  {
+    "type": "Producer",
+    "person": {
+      "id": 34747,
+      "url": "http://www.tvmaze.com/people/34747/brandon-margolis",
+      "name": "Brandon Margolis",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1980-10-08",
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34747"
+        }
+      }
+    }
+  },
+  {
+    "type": "Supervising Producer",
+    "person": {
+      "id": 34748,
+      "url": "http://www.tvmaze.com/people/34748/brandon-sonnier",
+      "name": "Brandon Sonnier",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1982-04-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/132/331555.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/132/331555.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34748"
+        }
+      }
+    }
+  },
+  {
+    "type": "Producer",
+    "person": {
+      "id": 34748,
+      "url": "http://www.tvmaze.com/people/34748/brandon-sonnier",
+      "name": "Brandon Sonnier",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1982-04-27",
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/132/331555.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/132/331555.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34748"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 34764,
+      "url": "http://www.tvmaze.com/people/34764/jonathan-shapiro",
+      "name": "Jonathan Shapiro",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34764"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 34764,
+      "url": "http://www.tvmaze.com/people/34764/jonathan-shapiro",
+      "name": "Jonathan Shapiro",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/34764"
+        }
+      }
+    }
+  },
+  {
+    "type": "Director Of Photography",
+    "person": {
+      "id": 35563,
+      "url": "http://www.tvmaze.com/people/35563/arthur-albert",
+      "name": "Arthur Albert",
+      "country": {
+        "name": "Venezuela, Bolivarian Republic of",
+        "code": "VE",
+        "timezone": "America/Caracas"
+      },
+      "birthday": "1946-07-09",
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/35563"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 35724,
+      "url": "http://www.tvmaze.com/people/35724/mike-ostrowski",
+      "name": "Mike Ostrowski",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/143/357852.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/143/357852.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/35724"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 45020,
+      "url": "http://www.tvmaze.com/people/45020/kim-newton",
+      "name": "Kim Newton",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/45020"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 48181,
+      "url": "http://www.tvmaze.com/people/48181/bill-roe",
+      "name": "Bill Roe",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/155/389763.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/155/389763.jpg"
+      },
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/48181"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 50949,
+      "url": "http://www.tvmaze.com/people/50949/david-post",
+      "name": "David Post",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/50949"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Story Editor",
+    "person": {
+      "id": 68230,
+      "url": "http://www.tvmaze.com/people/68230/taylor-martin",
+      "name": "Taylor Martin",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68230"
+        }
+      }
+    }
+  },
+  {
+    "type": "Story Editor",
+    "person": {
+      "id": 68230,
+      "url": "http://www.tvmaze.com/people/68230/taylor-martin",
+      "name": "Taylor Martin",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/68230"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 90691,
+      "url": "http://www.tvmaze.com/people/90691/chris-brookshire",
+      "name": "Chris Brookshire",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90691"
+        }
+      }
+    }
+  },
+  {
+    "type": "Production Designer",
+    "person": {
+      "id": 90692,
+      "url": "http://www.tvmaze.com/people/90692/nicholas-lundy",
+      "name": "Nicholas Lundy",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90692"
+        }
+      }
+    }
+  },
+  {
+    "type": "Director Of Photography",
+    "person": {
+      "id": 90693,
+      "url": "http://www.tvmaze.com/people/90693/michael-caracciolo",
+      "name": "Michael Caracciolo",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90693"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Executive Producer",
+    "person": {
+      "id": 90695,
+      "url": "http://www.tvmaze.com/people/90695/laura-a-benson",
+      "name": "Laura A. Benson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90695"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Producer",
+    "person": {
+      "id": 90695,
+      "url": "http://www.tvmaze.com/people/90695/laura-a-benson",
+      "name": "Laura A. Benson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90695"
+        }
+      }
+    }
+  },
+  {
+    "type": "Executive Producer",
+    "person": {
+      "id": 90695,
+      "url": "http://www.tvmaze.com/people/90695/laura-a-benson",
+      "name": "Laura A. Benson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90695"
+        }
+      }
+    }
+  },
+  {
+    "type": "Producer",
+    "person": {
+      "id": 90695,
+      "url": "http://www.tvmaze.com/people/90695/laura-a-benson",
+      "name": "Laura A. Benson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90695"
+        }
+      }
+    }
+  },
+  {
+    "type": "Unit Production Manager",
+    "person": {
+      "id": 90695,
+      "url": "http://www.tvmaze.com/people/90695/laura-a-benson",
+      "name": "Laura A. Benson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/90695"
+        }
+      }
+    }
+  },
+  {
+    "type": "Director Of Photography",
+    "person": {
+      "id": 92306,
+      "url": "http://www.tvmaze.com/people/92306/eric-moynier",
+      "name": "Eric Moynier",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/92306"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 93700,
+      "url": "http://www.tvmaze.com/people/93700/emily-e-greene",
+      "name": "Emily E. Greene",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/93700"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 100253,
+      "url": "http://www.tvmaze.com/people/100253/allison-glock-cooper",
+      "name": "Allison Glock-Cooper",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100253"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 100254,
+      "url": "http://www.tvmaze.com/people/100254/t-cooper",
+      "name": "T Cooper",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/100254"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 108367,
+      "url": "http://www.tvmaze.com/people/108367/orlando-machado-jr",
+      "name": "Orlando Machado Jr.",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/108367"
+        }
+      }
+    }
+  },
+  {
+    "type": "First Assistant Director",
+    "person": {
+      "id": 127405,
+      "url": "http://www.tvmaze.com/people/127405/matthew-mcloota",
+      "name": "Matthew McLoota",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127405"
+        }
+      }
+    }
+  },
+  {
+    "type": "Second Assistant Director",
+    "person": {
+      "id": 127406,
+      "url": "http://www.tvmaze.com/people/127406/jake-brown",
+      "name": "Jake Brown",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127406"
+        }
+      }
+    }
+  },
+  {
+    "type": "Costume Designer",
+    "person": {
+      "id": 127408,
+      "url": "http://www.tvmaze.com/people/127408/christine-bean",
+      "name": "Christine Bean",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127408"
+        }
+      }
+    }
+  },
+  {
+    "type": "Costume Supervisor",
+    "person": {
+      "id": 127410,
+      "url": "http://www.tvmaze.com/people/127410/lynne-maureen-curtis",
+      "name": "Lynne Maureen Curtis",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127410"
+        }
+      }
+    }
+  },
+  {
+    "type": "Art Director",
+    "person": {
+      "id": 127411,
+      "url": "http://www.tvmaze.com/people/127411/bradley-schmidt",
+      "name": "Bradley Schmidt",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127411"
+        }
+      }
+    }
+  },
+  {
+    "type": "Set Decorator",
+    "person": {
+      "id": 127412,
+      "url": "http://www.tvmaze.com/people/127412/shelley-barclay",
+      "name": "Shelley Barclay",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127412"
+        }
+      }
+    }
+  },
+  {
+    "type": "Property Master",
+    "person": {
+      "id": 127413,
+      "url": "http://www.tvmaze.com/people/127413/courtney-schmidt",
+      "name": "Courtney Schmidt",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127413"
+        }
+      }
+    }
+  },
+  {
+    "type": "Construction Coordinator",
+    "person": {
+      "id": 127414,
+      "url": "http://www.tvmaze.com/people/127414/ronnie-petagna",
+      "name": "Ronnie Petagna",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127414"
+        }
+      }
+    }
+  },
+  {
+    "type": "Sound Mixer",
+    "person": {
+      "id": 127415,
+      "url": "http://www.tvmaze.com/people/127415/jack-hutson",
+      "name": "Jack Hutson",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/127415"
+        }
+      }
+    }
+  },
+  {
+    "type": "Casting",
+    "person": {
+      "id": 129412,
+      "url": "http://www.tvmaze.com/people/129412/bonnie-finnegan",
+      "name": "Bonnie Finnegan",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129412"
+        }
+      }
+    }
+  },
+  {
+    "type": "Casting",
+    "person": {
+      "id": 129413,
+      "url": "http://www.tvmaze.com/people/129413/steven-jacobs",
+      "name": "Steven Jacobs",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/129413"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 132096,
+      "url": "http://www.tvmaze.com/people/132096/eric-l-beason",
+      "name": "Eric L. Beason",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/132096"
+        }
+      }
+    }
+  },
+  {
+    "type": "Music",
+    "person": {
+      "id": 146030,
+      "url": "http://www.tvmaze.com/people/146030/dave-porter",
+      "name": "Dave Porter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/146030"
+        }
+      }
+    }
+  },
+  {
+    "type": "Consulting Producer",
+    "person": {
+      "id": 146031,
+      "url": "http://www.tvmaze.com/people/146031/chap-taylor",
+      "name": "Chap Taylor",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/146031"
+        }
+      }
+    }
+  },
+  {
+    "type": "Associate Producer",
+    "person": {
+      "id": 146364,
+      "url": "http://www.tvmaze.com/people/146364/zee-hatley",
+      "name": "Zee Hatley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/146364"
+        }
+      }
+    }
+  },
+  {
+    "type": "Co-Producer",
+    "person": {
+      "id": 146364,
+      "url": "http://www.tvmaze.com/people/146364/zee-hatley",
+      "name": "Zee Hatley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/146364"
+        }
+      }
+    }
+  },
+  {
+    "type": "Director Of Photography",
+    "person": {
+      "id": 147253,
+      "url": "http://www.tvmaze.com/people/147253/saade-mustafa",
+      "name": "Saade Mustafa",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/147253"
+        }
+      }
+    }
+  },
+  {
+    "type": "Unit Production Manager",
+    "person": {
+      "id": 150669,
+      "url": "http://www.tvmaze.com/people/150669/ted-oconnor",
+      "name": "Ted O'Connor",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/150669"
+        }
+      }
+    }
+  },
+  {
+    "type": "First Assistant Director",
+    "person": {
+      "id": 151397,
+      "url": "http://www.tvmaze.com/people/151397/adam-weisinger",
+      "name": "Adam Weisinger",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      },
+      "birthday": "1972-05-02",
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/151397"
+        }
+      }
+    }
+  },
+  {
+    "type": "Second Assistant Director",
+    "person": {
+      "id": 151398,
+      "url": "http://www.tvmaze.com/people/151398/casey-madigan",
+      "name": "Casey Madigan",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/151398"
+        }
+      }
+    }
+  },
+  {
+    "type": "Unit Production Manager",
+    "person": {
+      "id": 151398,
+      "url": "http://www.tvmaze.com/people/151398/casey-madigan",
+      "name": "Casey Madigan",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/151398"
+        }
+      }
+    }
+  },
+  {
+    "type": "Second Assistant Director",
+    "person": {
+      "id": 152473,
+      "url": "http://www.tvmaze.com/people/152473/jacquie-dore",
+      "name": "Jacquie Dore",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/152473"
+        }
+      }
+    }
+  },
+  {
+    "type": "Director Of Photography",
+    "person": {
+      "id": 152972,
+      "url": "http://www.tvmaze.com/people/152972/peter-reniers",
+      "name": "Peter Reniers",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/152972"
+        }
+      }
+    }
+  },
+  {
+    "type": "Associate Producer",
+    "person": {
+      "id": 159942,
+      "url": "http://www.tvmaze.com/people/159942/alejandro-espinoza",
+      "name": "Alejandro Espinoza",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/159942"
+        }
+      }
+    }
+  },
+  {
+    "type": "Story Editor",
+    "person": {
+      "id": 160512,
+      "url": "http://www.tvmaze.com/people/160512/marissa-tam",
+      "name": "Marissa Tam",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/160512"
+        }
+      }
+    }
+  },
+  {
+    "type": "Director Of Photography",
+    "person": {
+      "id": 161890,
+      "url": "http://www.tvmaze.com/people/161890/derek-walker",
+      "name": "Derek Walker",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/161890"
+        }
+      }
+    }
+  },
+  {
+    "type": "Story Editor",
+    "person": {
+      "id": 162209,
+      "url": "http://www.tvmaze.com/people/162209/noah-schechter",
+      "name": "Noah Schechter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/162209"
+        }
+      }
+    }
+  },
+  {
+    "type": "Second Assistant Director",
+    "person": {
+      "id": 163691,
+      "url": "http://www.tvmaze.com/people/163691/peyton-rodgers",
+      "name": "Peyton Rodgers",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/163691"
+        }
+      }
+    }
+  },
+  {
+    "type": "Associate Producer",
+    "person": {
+      "id": 171966,
+      "url": "http://www.tvmaze.com/people/171966/breanna-mosley",
+      "name": "Breanna Mosley",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171966"
+        }
+      }
+    }
+  },
+  {
+    "type": "Casting",
+    "person": {
+      "id": 171968,
+      "url": "http://www.tvmaze.com/people/171968/zoe-e-rotter",
+      "name": "Zoe E. Rotter",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171968"
+        }
+      }
+    }
+  },
+  {
+    "type": "Casting",
+    "person": {
+      "id": 171969,
+      "url": "http://www.tvmaze.com/people/171969/debi-manwiller",
+      "name": "Debi Manwiller",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171969"
+        }
+      }
+    }
+  },
+  {
+    "type": "Casting",
+    "person": {
+      "id": 171970,
+      "url": "http://www.tvmaze.com/people/171970/rick-pagano",
+      "name": "Rick Pagano",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/171970"
+        }
+      }
+    }
+  },
+  {
+    "type": "First Assistant Director",
+    "person": {
+      "id": 175993,
+      "url": "http://www.tvmaze.com/people/175993/conor-kelly",
+      "name": "Conor Kelly",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": null,
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/175993"
+        }
+      }
+    }
+  },
+  {
+    "type": "Second Assistant Director",
+    "person": {
+      "id": 189557,
+      "url": "http://www.tvmaze.com/people/189557/christina-ann-walker",
+      "name": "Christina Ann Walker",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/189557"
+        }
+      }
+    }
+  },
+  {
+    "type": "Second Assistant Director",
+    "person": {
+      "id": 192845,
+      "url": "http://www.tvmaze.com/people/192845/kathleen-e-kearney",
+      "name": "Kathleen E. Kearney",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/192845"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 207323,
+      "url": "http://www.tvmaze.com/people/207323/elyse-holloway",
+      "name": "Elyse Holloway",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Female",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/207323"
+        }
+      }
+    }
+  },
+  {
+    "type": "Editor",
+    "person": {
+      "id": 207773,
+      "url": "http://www.tvmaze.com/people/207773/mark-pitner",
+      "name": "Mark Pitner",
+      "country": null,
+      "birthday": null,
+      "deathday": null,
+      "gender": "Male",
+      "image": null,
+      "_links": {
+        "self": {
+          "href": "http://api.tvmaze.com/people/207773"
+        }
+      }
+    }
+  }
+]

@@ -33,6 +33,7 @@ export default ({ TvShowService = ShowService() }) => {
   const onMatchingTvShowClick = (selectedShow) => {
     setSelectedTvShowId(selectedShow.id);
     setShow(selectedShow);
+    TvShowService.fetchTvShowDetails(selectedShow.id).then(setShow);
   };
 
   return (

@@ -1,14 +1,18 @@
 .showDetails {
-    width: 100%;
-    display: flex;
-    flex-direction: row;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.showImageContainer {
+  width: 50%;
+  height: auto;
 }
 
 .showImage {
-    width: 50%;
-    height: auto;
+  width: 100%;
 }
 
 .showDetailsContent {
-    padding: 10px;
+  padding: 10px;
 }
