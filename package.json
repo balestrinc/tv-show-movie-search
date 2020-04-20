@@ -2,23 +2,26 @@
   "name": "tv-show-search",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://balestrin.github.io/tv-show-search",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "cross-env CI=true react-scripts test --env=jsdom --verbose",
-    "test:watch": "react-scripts test --env=jsdom --verbose"
+    "test:watch": "react-scripts test --env=jsdom --verbose",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
   "dependencies": {
     "axios": "0.19.2",
+    "classnames": "2.2.6",
+    "gh-pages": "^2.2.0",
+    "normalize.css": "8.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
-    "normalize.css": "8.0.0",
-    "classnames": "2.2.6"
+    "react-scripts": "3.4.1"
   },
   "devDependencies": {
     "cross-env": "5.2.0",
