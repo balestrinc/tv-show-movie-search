@@ -3,10 +3,12 @@
   display: flex;
   list-style-type: none;
   width: 100%;
-  overflow-x: scroll;
+  overflow-x: auto;
+  padding: 0;
 }
 
 .matchingTvShow {
+  width: 210px;
   margin: 0.5rem;
 }
 

@@ -4,6 +4,7 @@ import ShowService from "./../../services/TvShowService";
 import MatchingTvShows from "./MatchingTvShows/MatchingTvShows";
 import SearchFailure from "./SearchFailure/SearchFailure";
 import Loading from "./Loading/Loading";
+import ShowDetails from "./ShowDetails/ShowDetails";
 
 export default ({ TvShowService = ShowService() }) => {
   const [phase, setPhase] = useState('');
@@ -11,6 +12,7 @@ export default ({ TvShowService = ShowService() }) => {
   const [hasFailedToSearch, setHasFailedToSearch] = useState(false);
   const [tvShows, setTvShows] = useState([]);
   const [selectedTvShowId, setSelectedTvShowId] = useState(null);
+  const [show, setShow] = useState(null);
 
   const onPhraseChange = (newValue) => setPhase(newValue);
 
@@ -30,6 +32,7 @@ export default ({ TvShowService = ShowService() }) => {
 
   const onMatchingTvShowClick = (selectedShow) => {
     setSelectedTvShowId(selectedShow.id);
+    setShow(selectedShow);
   };
 
   return (
@@ -39,6 +42,7 @@ export default ({ TvShowService = ShowService() }) => {
       {isLoading && (<Loading />)}
       <MatchingTvShows tvShows={tvShows} onMatchingTvShowClick={onMatchingTvShowClick} selectedTvShowId={selectedTvShowId} />
       {hasFailedToSearch && (<SearchFailure />)}
+      <ShowDetails show={show}/>
     </React.Fragment>
   );
 };
