@@ -2,12 +2,13 @@
   "name": "tv-show-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://balestrin.github.io/tv-show-search",
+  "homepage": "https://balestrinc.github.io/tv-show-search/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "cross-env CI=true react-scripts test --env=jsdom --verbose",
     "test:watch": "react-scripts test --env=jsdom --verbose",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

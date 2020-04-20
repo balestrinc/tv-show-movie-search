@@ -17,3 +17,20 @@ There is also the `npm run test:watch` command available to start test runner in
 ## Build the app for production
 
 1. `npm run build` – builds the app for production to the `build` folder.
+
+## Architecture
+This is a simple React app. Opted to not include Redux, since it could be done without
+pain using just React State.
+
+For testing used the lib `enzyme` and `jest`. 
+
+## Improvements to be done
+
+Improve the design, that is very simple, and adapt it to work on smaller screens.
+
+
+## If I had more time
+
+- Use Sass instead of Vanilla css.
+- Use webpack to have more control of the production build version.
+- Test as many cases I could to validate I was not missing an edge case. For example could create a script with request to all available Tv shows and then run a test with the complete flow from search to view details.
